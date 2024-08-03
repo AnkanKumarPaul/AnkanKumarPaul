@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at LinkedIn [https://www.linkedin.com/in/ankan-kumar-paul-255876228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2F](https://www.linkedin.com/in/ankan-kumar-paul-255876228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2F)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/ankan-kumar-paul-255876228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2F)
 
 - 💬 Ask me about **Coding(C,Java),HTML,CSS,Database(SQL,MongoDB),MERN**
 
