@@ -15,7 +15,7 @@
 
 - 📫 How to reach me (Mail Id:) **ankanpaul7897@gmail.com**
 
-- 📄 Know about my experiences (Resume:) [https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link)
+- 📄 Know about my experiences  [Resume](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link)
 
 - ⚡ Fun fact **I am foody!! :)**
 
