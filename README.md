@@ -1,21 +1,23 @@
-![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
+![MasterHead](https://drive.google.com/file/d/1lSt_E3aKrwLKiYFFgoiVjwu30Uvi2Hde/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Ankan Kumar Paul</h1>
-<h3 align="center">A passionate Full Stack web developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<h4 align="center">A passionate Full Stack web developer from India</h4>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankankumarpaul&label=Profile%20views&color=0e75b6&style=flat" alt="ankankumarpaul" /> </p>
 
-- 🔭 I’m currently working on [Full Stack Development(Using MERN)](https://github.com/AnkanKumarPaul/MERN-Full-Stack-OBD-tution)
+- 🔭 I’m currently working on **Full Stack Development   (Using MERN)** [Repository ](https://github.com/AnkanKumarPaul/MERN-Full-Stack-OBD-tution)
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at LinkedIn [https://www.linkedin.com/in/ankan-kumar-paul-255876228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2F](https://www.linkedin.com/in/ankan-kumar-paul-255876228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2F)
+- 👨‍💻 All of my Certificate's are available at [LinkedIn](https://www.linkedin.com/in/ankan-kumar-paul-255876228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2F)
 
 - 💬 Ask me about **Coding(C,Java),HTML,CSS,Database(SQL,MongoDB),MERN**
 
 - 📫 How to reach me (Mail Id:) **ankanpaul7897@gmail.com**
 
-- 📄 Know about my experiences (Resume:) [https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link)
+- 📄 Know about my experiences  [Resume](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link)
+
+- 📜 Know more [Portfolio](https://portfolioofankankumarpaul.netlify.app/)
 
 - ⚡ Fun fact **I am foody!! :)**
 
