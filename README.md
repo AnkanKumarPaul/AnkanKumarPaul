@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankankumarpaul&label=Profile%20views&color=0e75b6&style=flat" alt="ankankumarpaul" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development   (Using MERN)** [Repository ](https://github.com/AnkanKumarPaul/MERN-Full-Stack-OBD-tution)
+- 🔭 I’m currently working on **Full Stack Development (Using MERN)** [Repository ](https://github.com/AnkanKumarPaul/MERN-Full-Stack-OBD-tution)
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my Certificate's are available at [LinkedIn](https://www.linkedin.com/in/ankan-kumar-paul-255876228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2F)
+- 👨‍💻 Visit [LinkedIn](https://www.linkedin.com/in/ankan-kumar-paul-255876228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2F) to know more about me and my Certifications
 
 - 💬 Ask me about **Coding(C,Java),HTML,CSS,Database(SQL,MongoDB),MERN**
 
 - 📫 How to reach me (Mail Id:) **ankanpaul7897@gmail.com**
 
-- 📄 Know about my experiences  [Resume](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link)
+- 📄 Visit [Resume](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link) to know about my experiences and me
 
-- 📜 Know more [Portfolio](https://portfolioofankankumarpaul.netlify.app/)
+- 📜 wanted to Know more ? [Portfolio](https://portfolioofankankumarpaul.netlify.app/)
 
 - ⚡ Fun fact **I am foody!! :)**
 
