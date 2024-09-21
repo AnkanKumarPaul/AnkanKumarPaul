@@ -15,7 +15,7 @@
 
 - 📫 How to reach me (Mail Id:) **ankanpaul7897@gmail.com**
 
-- 📄 Visit [Resume](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link) to know about my experiences and my academics🎓
+- 📄 Visit [Resume](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link) to know about my experiences and academics🎓
 
 - 📜 wanted to Know more ? [Portfolio](https://portfolioofankankumarpaul.netlify.app/)
 
