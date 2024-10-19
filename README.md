@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Coding(C,Java),HTML,CSS,Database(SQL,MongoDB),MERN**
 
-- 📫 How to reach me (Mail Id:) **ankanpaul7897@gmail.com**
+- 📫 How to reach me (Mail Id): **ankanpaul7897@gmail.com**
 
 - 📄 See [Resume](https://drive.google.com/drive/folders/1y2P6SX334z9tlRW3ztklKCHiCvPPuocx?usp=drive_link) to know about my experiences and academics🎓
 
